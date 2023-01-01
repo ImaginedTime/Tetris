@@ -1,6 +1,9 @@
 # Tetris
 
 ## A two player tetris game
+You can play by clicking the link below
+
+[Tetris](https://tetris-uday.web.app)
 
 ## Controls :-
   ###### Player 1 :-
